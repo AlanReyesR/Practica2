@@ -1,2 +1,2 @@
 # Practica2
- Estrucutras AVL y B-Tree
+ Estructuras AVL y B-Tree
