@@ -14,9 +14,9 @@
 
 ## 1. Datos de los estudiantes
  - Esai Josue Huaman Meza
- - item Alan Jerry Reyes Robles
- - item Jorge Luis Zegarra Guardamino
- - item Nestor Giraldo Calcinas Huaranga
+ - Alan Jerry Reyes Robles
+ - Jorge Luis Zegarra Guardamino
+ - Nestor Giraldo Calcinas Huaranga
 
 ## 2. Ejercicios
 
